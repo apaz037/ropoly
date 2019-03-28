@@ -1,6 +1,6 @@
 package types
 
-import "github.com/polyverse/masche/process"
+import "github.com/apaz037/masche/process"
 
 type Process struct {
 	Info      *process.ProcessInfo `json:"info"`
